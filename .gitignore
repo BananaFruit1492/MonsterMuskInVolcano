@@ -1,52 +1,36 @@
-# Prerequisites
-*.d
+# user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+_releases/
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Visual Studio cache/options
+.vs/
 
-# Precompiled Headers
-*.gch
-*.pch
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# NuGet packages
+*.nupkg
+**/packages/*
+*.nuget.props
+*.nuget.targets
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# vanilla map tilesheets
+SmallBeachFarm/assets/paths.png
+SmallBeachFarm/assets/spring_beach.png
+SmallBeachFarm/assets/spring_island_tilesheet_1.png
+SmallBeachFarm/assets/spring_outdoorsTileSheet.png
+SmallBeachFarm/assets/spring_town.png
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# JetBrains Rider
+.idea/

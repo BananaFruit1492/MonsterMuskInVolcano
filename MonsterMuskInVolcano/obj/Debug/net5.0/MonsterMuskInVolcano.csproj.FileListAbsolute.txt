@@ -1,9 +1,0 @@
-E:\Coding\Repositories\Modding\StardewValley\MyMods\MonsterMuskInVolcano\MonsterMuskInVolcano\bin\Debug\net5.0\MonsterMuskInVolcano.deps.json
-E:\Coding\Repositories\Modding\StardewValley\MyMods\MonsterMuskInVolcano\MonsterMuskInVolcano\bin\Debug\net5.0\MonsterMuskInVolcano.dll
-E:\Coding\Repositories\Modding\StardewValley\MyMods\MonsterMuskInVolcano\MonsterMuskInVolcano\bin\Debug\net5.0\MonsterMuskInVolcano.pdb
-E:\Coding\Repositories\Modding\StardewValley\MyMods\MonsterMuskInVolcano\MonsterMuskInVolcano\obj\Debug\net5.0\MonsterMuskInVolcano.GeneratedMSBuildEditorConfig.editorconfig
-E:\Coding\Repositories\Modding\StardewValley\MyMods\MonsterMuskInVolcano\MonsterMuskInVolcano\obj\Debug\net5.0\MonsterMuskInVolcano.AssemblyInfoInputs.cache
-E:\Coding\Repositories\Modding\StardewValley\MyMods\MonsterMuskInVolcano\MonsterMuskInVolcano\obj\Debug\net5.0\MonsterMuskInVolcano.AssemblyInfo.cs
-E:\Coding\Repositories\Modding\StardewValley\MyMods\MonsterMuskInVolcano\MonsterMuskInVolcano\obj\Debug\net5.0\MonsterMuskInVolcano.csproj.CoreCompileInputs.cache
-E:\Coding\Repositories\Modding\StardewValley\MyMods\MonsterMuskInVolcano\MonsterMuskInVolcano\obj\Debug\net5.0\MonsterMuskInVolcano.dll
-E:\Coding\Repositories\Modding\StardewValley\MyMods\MonsterMuskInVolcano\MonsterMuskInVolcano\obj\Debug\net5.0\MonsterMuskInVolcano.pdb

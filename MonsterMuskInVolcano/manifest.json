@@ -6,5 +6,5 @@
   "UniqueID": "BananaFruit.MonsterMuskInVolcano",
   "EntryDll": "MonsterMuskInVolcano.dll",
   "MinimumApiVersion": "3.13.2",
-  "UpdateKeys": []
+  "UpdateKeys": [ "Nexus:10651" ]
 }

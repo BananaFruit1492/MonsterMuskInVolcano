@@ -116,7 +116,7 @@ namespace YourProjectName
             }
             else if(monster is Spiker spike)
             {
-                clone = new Spiker(originalPosition, spike.targetDirection);
+                return;
             }
             if(clone == null)
             {

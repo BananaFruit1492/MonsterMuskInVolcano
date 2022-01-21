@@ -1,4 +1,4 @@
-**MonsterMuskInVolcano** is a [Stardew Valley](https://stardewvalley.net/) mod which doubles the number of monsters encountered int the [Volcano Dungeon](https://stardewvalleywiki.com/Volcano_Dungeon) while [Monster Musk's](https://stardewvalleywiki.com/Monster_Musk) buff is active.
+**MonsterMuskInVolcano** is a [Stardew Valley](https://stardewvalley.net/) mod which doubles the number of monsters encountered in the [Volcano Dungeon](https://stardewvalleywiki.com/Volcano_Dungeon) while [Monster Musk's](https://stardewvalleywiki.com/Monster_Musk) buff is active.
 
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
